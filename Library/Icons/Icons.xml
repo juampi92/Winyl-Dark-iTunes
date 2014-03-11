@@ -1,0 +1,10 @@
+<TreeIcons>
+    <Artist File="Artist.png" />
+    <Album File="Album.png" />
+    <Year File="Year.png" />
+    <Genre File="Genre.png" />
+    <Playlist File="Playlist.png" />
+    <Radio File="Radio.png" />
+    <Folder File="Folder.png" />
+    <Smartlist File="Smartlist.png" />
+</TreeIcons>

@@ -1,0 +1,5 @@
+<Button>
+    <Normal File="Clear1.png" /> 
+    <Hover File="Clear1.png" /> 
+    <Press File="Clear3.png" /> 
+</Button>
