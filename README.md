@@ -8,7 +8,7 @@ Dark iTunes theme for [**Winyl**](http://vinylsoft.com/) (the music player).
 Install
 =======
 
-Download this repository and place the folder into the program folder, usually 
+Download this repository and place the folder into the program sub folder "skin", usually 
 
 	C:\Program Files\Winyl\Skin
 
