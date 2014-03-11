@@ -3,14 +3,14 @@ Dark iTunes
 
 Dark iTunes theme for [**Winyl**](http://vinylsoft.com/) (the music player).
 
-![ScreenShot](https://raw.github.com/juampi92/Winyl-Dark-iTunes/master/Preview.png)
+![ScreenShot](https://raw.github.com/juampi92/Winyl-Dark-iTunes/master/screenshot.png)
 
 Install
 =======
 
 Download this repository and place the folder into the program folder, usually 
 
-  C:\Program Files\Winyl\Skin
+	C:\Program Files\Winyl\Skin
 
 Info
 ====
